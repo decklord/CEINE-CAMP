@@ -1,2 +1,2 @@
 def chao():
-    print "Chao"
+    print "Adios"
